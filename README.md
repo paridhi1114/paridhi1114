@@ -2,7 +2,7 @@
 
 ### 🎓 Electronics & Telecommunication Student | AI/ML & Web Dev Enthusiast
 
-I am a B.Tech student at **Shri G.S. Institute of Technology and Science** and a **Training and Placement Cell Coordinator**. I specialize in building practical applications using **AI/ML** and **Web Development** and am currently seeking **internship or freelance opportunities** in these domains.
+I am a 3rd year B.Tech student at **Shri G.S. Institute of Technology and Science** and a **Training and Placement Cell Coordinator**. I specialize in building practical applications using **AI/ML** and **Web Development** and am currently seeking **internship or freelance opportunities** in these domains.
 
 ---
 
@@ -41,9 +41,9 @@ I am a B.Tech student at **Shri G.S. Institute of Technology and Science** and a
 ---
 
 ### 🎖️ Career Highlights
-- [cite_start]**Amazon ML Summer School Alumna:** Selected among top 3.7% of 80,000+ applicants nationwide[cite: 19].
-- [cite_start]**IEEE Publication:** Framework for Outage Statistics Estimation in 5G networks, accepted at IEEE Student Research Conclave[cite: 37, 39].
-- [cite_start]**Chess:** International player with 50+ tournament wins and a FIDE rating of 1443[cite: 49].
+- **Amazon ML Summer School Alumna:** Selected among top 3.7% of 80,000+ applicants nationwide[cite: 19].
+- **IEEE Publication:** Framework for Outage Statistics Estimation in 5G networks, accepted at IEEE Student Research Conclave[cite: 37, 39].
+- **Chess:** International player with 50+ tournament wins and a FIDE rating of 1443[cite: 49].
 
 ---
 
