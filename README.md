@@ -53,5 +53,5 @@
 ---
 
 ### 📫 Let's connect!
-[cite_start][![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paridhi) [cite: 2]
+[cite_start][![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([[https://linkedin.com/in/paridhi](https://www.linkedin.com/in/paridhi-shrivastava-5025392a8/)) [cite: 2]
 [cite_start][![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paridhishrivastava1407@gmail.com) [cite: 2]
